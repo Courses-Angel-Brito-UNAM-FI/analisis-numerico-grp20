@@ -1,5 +1,5 @@
 # Análisis Numérico (1433)
-Material generado para la impartición de la materia del Análisis Numérico en la Facultad de Ingeniería de la UNAM.
+Material generado para la impartición de la materia de Análisis Numérico (grupo 20) en la Facultad de Ingeniería de la UNAM.
 
 ## Profesor
 *Ing. Angel Brito Segura*
